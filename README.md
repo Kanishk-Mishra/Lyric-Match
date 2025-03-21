@@ -84,6 +84,10 @@ The frontend is served directly via the Python server. Make sure you are in the 
 ```bash
 python -m http.server 8080
 ```
+Then, access the application at:
+```
+http://localhost:5000
+```
 *No need to manually open the HTML file or navigate to the frontend folder.*
 
 ---
