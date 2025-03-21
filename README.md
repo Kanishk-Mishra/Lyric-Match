@@ -52,7 +52,7 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/LyricMatch.git
+git clone https://github.com/Kanishk-Mishra/Lyric-Match.git
 cd LyricMatch
 ```
 
@@ -79,17 +79,16 @@ The server will be running at: `http://localhost:5000`
 
 ### 3. Setting Up Frontend
 
-#### Navigate to Frontend Directory
+#### Run the Frontend Server
+The frontend is served directly via the Python server. Make sure you are in the root directory and run:
 ```bash
-cd frontend
+python -m http.server 8080
 ```
-
-#### Open the HTML File
-Open `public/index.html` in your preferred browser:
+The frontend will be accessible at:
 ```
-firefox public/index.html
+http://localhost:8080/frontend/public/index.html
 ```
-*Replace `firefox` with your browser of choice.*
+*No need to manually open the HTML file or navigate to the frontend folder.*
 
 ---
 
