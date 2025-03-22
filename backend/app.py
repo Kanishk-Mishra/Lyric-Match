@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, send_from_directory, request
 from flask_cors import CORS
-from lyrics import get_random_song_title
-from utils import generate_lyric_snippet
+from backend.lyrics import get_random_song_title
+from backend.utils import generate_lyric_snippet
 
 app = Flask(__name__, static_folder='../frontend/public')
 CORS(app, resources={r"/*": {"origins": "*"}})
