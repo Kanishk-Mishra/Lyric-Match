@@ -3,16 +3,10 @@
 Lyric Match is a web application that challenges users to guess the title of an English song based on a short AI-generated snippet of its lyrics. The application leverages OpenAI's GPT-3.5 model through the EdenAI API to generate evocative lyrics from popular songs.
 
 ---
-<div style="text-align: center;">
-    <img src="https://i.ibb.co/sdjbSxzV/Lyric-Match.jpg" alt="Lyric Match" />
-    <br><em>Glimpse of the App</em>
+<div style="text-align: center; item-align: center;">
+    <img style="text-align: center; item-align: center;" src="https://i.ibb.co/sdjbSxzV/Lyric-Match.jpg" alt="Lyric Match" />
+    <br><em style="text-align: center; item-align: center;">Glimpse of the App</em>
 </div>
-
-
-<span style="item-align: center;">
-![](https://i.ibb.co/sdjbSxzV/Lyric-Match.jpg)
-<br>*Glimpse of the App*
-</span>
 
 ## 🚀 Features
 - **Lyric Generation:** Generate short, recognizable lyric snippets using OpenAI's GPT-3.5 model.
