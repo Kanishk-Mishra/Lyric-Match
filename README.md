@@ -42,8 +42,8 @@ Lyric-Match/
 │   ├── utils.py
 │   └── lyrics.py
 ├── .env
-└── requirements.txt
-└── LICENSE
+├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
