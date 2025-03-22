@@ -30,8 +30,10 @@ Lyric-Match/
 ├── frontend/
 │   ├── public/
 │   │   ├── assets/
-│   │   │   └── fonts/
-│   │   │       └── Rezland.ttf
+│   │   │   ├── fonts/
+│   │   │   │   └── Rezland.ttf
+│   │   │   └── images/
+│   │   │       └── music-poster.jpg
 │   │   └── index.html
 │   └── src/
 │       └── App.js
