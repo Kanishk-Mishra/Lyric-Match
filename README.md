@@ -4,7 +4,7 @@ Lyric Match is a web application that challenges users to guess the title of an 
 
 ---
 ![](https://i.ibb.co/sdjbSxzV/Lyric-Match.jpg)
-*Glimpse of the App*
+<br>*Glimpse of the App*
 
 ## 🚀 Features
 - **Lyric Generation:** Generate short, recognizable lyric snippets using OpenAI's GPT-3.5 model.
